@@ -1,0 +1,6 @@
+Zhang, Taolin, et al. "Knowledge-Empowered Representation Learning for Chinese Medical Reading Comprehension: Task, Model and Resources." arXiv preprint arXiv:2008.10327 (2020).
+Xu, Weiwen, et al. "Dynamic Semantic Graph Construction and Reasoning for Explainable Multi-hop Science Question Answering." arXiv preprint arXiv:2105.11776 (2021).
+Hu, Sen, Lei Zou, and Zhanxing Zhu. "How question generation can help question answering over knowledge base." CCF International Conference on Natural Language Processing and Chinese Computing. Springer, Cham, 2019.
+Srivastava, Saurabh, et al. "Complex Question Answering on knowledge graphs using machine translation and multi-task learning." Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume. 2021.
+Cai, Jianyu, et al. "Deep Cognitive Reasoning Network for Multi-hop Question Answering over Knowledge Graphs." Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. 2021.
+Xu, Weiwen, et al. "Dynamic Semantic Graph Construction and Reasoning for Explainable Multi-hop Science Question Answering." arXiv preprint arXiv:2105.11776 (2021).
