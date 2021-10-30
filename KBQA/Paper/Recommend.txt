@@ -1,4 +1,5 @@
 1.Saxena, Apoorv, Aditay Tripathi, and Partha Talukdar. "Improving multi-hop question answering over knowledge graphs using knowledge base embeddings." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020.
+Shi, Jiaxin, et al. "TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph." arXiv preprint arXiv:2104.07302 (2021).
 2.Sun, Haitian, Tania Bedrax-Weiss, and William W. Cohen. "Pullnet: Open domain question answering with iterative retrieval on knowledge bases and text." arXiv preprint arXiv:1904.09537 (2019).
 3.Nathani, Deepak, et al. "Learning attention-based embeddings for relation prediction in knowledge graphs." arXiv preprint arXiv:1906.01195 (2019).
 4.Lv, Shangwen, et al. "Graph-based reasoning over heterogeneous external knowledge for commonsense question answering." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 05. 2020.
