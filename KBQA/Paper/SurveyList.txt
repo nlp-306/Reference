@@ -1,1 +1,3 @@
+Ji, Shaoxiong, et al. "A survey on knowledge graphs: Representation, acquisition, and applications." IEEE Transactions on Neural Networks and Learning Systems (2021).
+Fu, Bin, et al. "A survey on complex question answering over knowledge base: Recent advances and challenges." arXiv preprint arXiv:2007.13069 (2020).
 
