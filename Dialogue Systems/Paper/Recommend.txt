@@ -1,1 +1,21 @@
-
+CIKM2021
+1.Qian H, Dou Z, Zhu Y, et al. Learning Implicit User Profiles for Personalized Retrieval-Based Chatbot[J]. arXiv preprint arXiv:2108.07935, 2021.
+AAAI2021
+2.Xu R, Tao C, Jiang D, et al. Learning an effective context-response matching model with self-supervised tasks for retrieval-based dialogues[J]. arXiv preprint arXiv:2009.06265, 2020.
+3.Tian Z, Bi W, Zhang Z, et al. Learning from My Friends: Few-Shot Personalized Conversation Systems via Social Networks[J]. arXiv preprint arXiv:2105.10323, 2021.
+4.Yang F, Quan X, Yang Y, et al. Multi-Document Transformer for Personality Detection[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(16): 14221-14229.
+5.Feng S, Ren X, Li K, et al. Multi-View Feature Representation for Dialogue Generation with Bidirectional Distillation[J]. arXiv preprint arXiv:2102.10780, 2021.
+6.Yang Z, Wu W, Hu H, et al. Open domain dialogue generation with latent images[J]. arXiv preprint arXiv:2004.01981, 2020.
+7.Zheng Y, Chen Z, Zhang R, et al. Stylized dialogue response generation using stylized unpaired texts[J]. arXiv preprint arXiv:2009.12719, 2020.
+NAACL2021
+8.Gupta P, Bigham J P, Tsvetkov Y, et al. Controlling dialogue generation with semantic exemplars[J]. arXiv preprint arXiv:2008.09075, 2020.
+9.Zhu C, Hinthorn W, Xu R, et al. Enhancing factual consistency of abstractive summarization[J]. arXiv preprint arXiv:2003.08612, 2020.
+10.Paranjape A, Manning C D. Human-like informative conversations: Better acknowledgements using conditional mutual information[J]. arXiv preprint arXiv:2104.07831, 2021.
+11.Wu Y, Ma X, Yang D. Personalized Response Generation via Generative Split Memory Network[C]//Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2021: 1956-1970.
+12.Su H, Jhan J H, Sun F, et al. Put Chatbot into Its Interlocutor's Shoes: New Framework to Learn Chatbot Responding with Intention[J]. arXiv preprint arXiv:2103.16429, 2021.
+ACL2021
+13.Liu S, Zheng C, Demasi O, et al. Towards emotional support dialog systems[J]. arXiv preprint arXiv:2106.01144, 2021.
+14.Song H, Wang Y, Zhang K, et al. BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data[J]. arXiv preprint arXiv:2106.06169, 2021.
+15.Sevegnani K, Howcroft D M, Konstas I, et al. OTTers: One-turn Topic Transitions for Open-Domain Dialogue[J]. arXiv preprint arXiv:2105.13710, 2021.
+16.Hu D, Wei L, Huai X. DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations[J]. arXiv preprint arXiv:2106.01978, 2021.
+17.Ye Z, Lu L, Huang L, et al. Towards Quantifiable Dialogue Coherence Evaluation[J]. arXiv preprint arXiv:2106.00507, 2021.
