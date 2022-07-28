@@ -1,0 +1,2 @@
+1、Graph Convolutional Networks for Text Classification 2019-AAAI https://github.com/yao8839836/text_gcn
+2、BertGCN: Transductive Text Classification by Combining GCN and BERT 2021-arxiv https://github.com/ZeroRin/BertGCN
