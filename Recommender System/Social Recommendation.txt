@@ -1,0 +1,22 @@
+[1]. Liao J, Zhou W, Luo F, et al. SocialLGN: Light graph convolution network for social recommendation[J]. Information Sciences, 2022, 589: 595-607.
+[2]. Chen J, Xin X, Liang X, et al. GDSRec: Graph-Based DecentralizedCollaborative Filtering for SocialRecommendation[J]. IEEE Transactions on Knowledge and Data Engineering, 2022.
+[3]. Liu H, Zheng C, Li D, et al. Multi-perspective social recommendation method with graph representation learning[J]. Neurocomputing, 2022, 468: 469-481.
+[4]. Miao H, Li A, Yang B. Meta-path Enhanced Lightweight Graph Neural Network for Social Recommendation[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2022: 134-149.
+[5]. Lin J, Chen S, Wang J. Graph neural networks with dynamic and static representations for social recommendation[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2022: 264-271.
+[6]. Tao Y, Li Y, Zhang S, et al. Revisiting Graph based Social Recommendation: A Distillation Enhanced Social Graph Network[C]//Proceedings of the ACM Web Conference 2022. 2022: 2830-2838.
+[7]. Wang H, Lian D, Tong H, et al. Hypersorec: Exploiting hyperbolic user and item representations with multiple aspects for social-aware recommendation[J]. ACM Transactions on Information Systems (TOIS), 2021, 40(2): 1-28.
+[8]. Zhang C, Wang Y, Zhu L, et al. Multi-graph heterogeneous interaction fusion for social recommendation[J]. ACM Transactions on Information Systems (TOIS), 2021, 40(2): 1-26.
+[9]. Fu B, Zhang W, Hu G, et al. Dual side deep context-aware modulation for social recommendation[C]//Proceedings of the Web Conference 2021. 2021: 2524-2534.
+[10]. Yang L, Liu Z, Dou Y, et al. Consisrec: Enhancing gnn for social recommendation via consistent neighbor aggregation[C]//Proceedings of the 44th international ACM SIGIR conference on Research and development in information retrieval. 2021: 2141-2145.
+[11]. Huang C, Xu H, Xu Y, et al. Knowledge-aware coupled graph neural network for social recommendation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(5): 4115-4122.
+[12]. Chen T, Wong R C W. An efficient and effective framework for session-based social recommendation[C]//Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021: 400-408.
+[13]. Yu J, Yin H, Gao M, et al. Socially-aware self-supervised tri-training for recommendation[C]//Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021: 2084-2092.
+[14]. Long X, Huang C, Xu Y, et al. Social recommendation with self-supervised metagraph informax network[C]//Proceedings of the 30th ACM International Conference on Information & Knowledge Management. 2021: 1160-1169.
+[15]. Xia Z, Zhang W, Weng Z. Social Recommendation System Based on Hypergraph Attention Network[J]. Computational Intelligence and Neuroscience, 2021, 2021.
+[16]. Wu L, Li J, Sun P, et al. Diffnet++: A neural influence and interest diffusion network for social recommendation[J]. IEEE Transactions on Knowledge and Data Engineering, 2020.
+[17]. Song L, Bi Y, Yao M, et al. Dream: A dynamic relation-aware model for social recommendation[C]//Proceedings of the 29th ACM international conference on information & knowledge management. 2020: 2225-2228.
+[18]. Jin B, Cheng K, Zhang L, et al. Partial relationship aware influence diffusion via a multi-channel encoding scheme for social recommendation[C]//Proceedings of the 29th ACM International Conference on Information & Knowledge Management. 2020: 585-594.
+[19]. Xu H, Huang C, Xu Y, et al. Global context enhanced social recommendation with hierarchical graph neural networks[C]//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020: 701-710.
+[20]. Wu Q, Zhang H, Gao X, et al. Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems[C]//The World Wide Web Conference. 2019: 2091-2102.
+[21]. Fan W, Ma Y, Li Q, et al. Graph neural networks for social recommendation[C]//The world wide web conference. 2019: 417-426.
+[22]. Chen C, Zhang M, Liu Y, et al. Social attentional memory network: Modeling aspect-and friend-level differences in recommendation[C]//Proceedings of the twelfth ACM international conference on web search and data mining. 2019: 177-185.
